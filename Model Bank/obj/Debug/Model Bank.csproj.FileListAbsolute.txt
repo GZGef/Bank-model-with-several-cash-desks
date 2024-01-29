@@ -1,0 +1,74 @@
+D:\3 курс 6 семестр\Дисциплины\МиИМ\Курсач\C#\Model Bank\Model Bank\obj\Debug\Model Bank.csproj.AssemblyReference.cache
+D:\3 курс 6 семестр\Дисциплины\МиИМ\Курсач\C#\Model Bank\Model Bank\obj\Debug\Model Bank.csproj.SuggestedBindingRedirects.cache
+D:\3 курс 6 семестр\Дисциплины\МиИМ\Курсач\C#\Model Bank\Model Bank\obj\Debug\Model_Bank.Form1.resources
+D:\3 курс 6 семестр\Дисциплины\МиИМ\Курсач\C#\Model Bank\Model Bank\obj\Debug\Model_Bank.Properties.Resources.resources
+D:\3 курс 6 семестр\Дисциплины\МиИМ\Курсач\C#\Model Bank\Model Bank\obj\Debug\Model Bank.csproj.GenerateResource.cache
+D:\3 курс 6 семестр\Дисциплины\МиИМ\Курсач\C#\Model Bank\Model Bank\obj\Debug\Model Bank.csproj.CoreCompileInputs.cache
+D:\3 курс 6 семестр\Дисциплины\МиИМ\Курсач\C#\Model Bank\Model Bank\bin\Debug\Model Bank.exe.config
+D:\3 курс 6 семестр\Дисциплины\МиИМ\Курсач\C#\Model Bank\Model Bank\bin\Debug\Model Bank.exe
+D:\3 курс 6 семестр\Дисциплины\МиИМ\Курсач\C#\Model Bank\Model Bank\bin\Debug\Model Bank.pdb
+D:\3 курс 6 семестр\Дисциплины\МиИМ\Курсач\C#\Model Bank\Model Bank\obj\Debug\Model Bank.exe
+D:\3 курс 6 семестр\Дисциплины\МиИМ\Курсач\C#\Model Bank\Model Bank\obj\Debug\Model Bank.pdb
+C:\Users\krenz\source\repos\Model Bank\Model Bank\bin\Debug\Model Bank.exe.config
+C:\Users\krenz\source\repos\Model Bank\Model Bank\bin\Debug\Model Bank.exe
+C:\Users\krenz\source\repos\Model Bank\Model Bank\bin\Debug\Model Bank.pdb
+C:\Users\krenz\source\repos\Model Bank\Model Bank\obj\Debug\Model Bank.csproj.AssemblyReference.cache
+C:\Users\krenz\source\repos\Model Bank\Model Bank\obj\Debug\Model Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\krenz\source\repos\Model Bank\Model Bank\obj\Debug\Model_Bank.Form1.resources
+C:\Users\krenz\source\repos\Model Bank\Model Bank\obj\Debug\Model_Bank.Properties.Resources.resources
+C:\Users\krenz\source\repos\Model Bank\Model Bank\obj\Debug\Model Bank.csproj.GenerateResource.cache
+C:\Users\krenz\source\repos\Model Bank\Model Bank\obj\Debug\Model Bank.csproj.CoreCompileInputs.cache
+C:\Users\krenz\source\repos\Model Bank\Model Bank\obj\Debug\Model Bank.exe
+C:\Users\krenz\source\repos\Model Bank\Model Bank\obj\Debug\Model Bank.pdb
+D:\Загрузки\Model Bank\Model Bank\bin\Debug\Model Bank.exe.config
+D:\Загрузки\Model Bank\Model Bank\bin\Debug\Model Bank.exe
+D:\Загрузки\Model Bank\Model Bank\bin\Debug\Model Bank.pdb
+D:\Загрузки\Model Bank\Model Bank\obj\Debug\Model Bank.csproj.AssemblyReference.cache
+D:\Загрузки\Model Bank\Model Bank\obj\Debug\Model Bank.csproj.SuggestedBindingRedirects.cache
+D:\Загрузки\Model Bank\Model Bank\obj\Debug\Model_Bank.Form1.resources
+D:\Загрузки\Model Bank\Model Bank\obj\Debug\Model_Bank.Properties.Resources.resources
+D:\Загрузки\Model Bank\Model Bank\obj\Debug\Model Bank.csproj.GenerateResource.cache
+D:\Загрузки\Model Bank\Model Bank\obj\Debug\Model Bank.csproj.CoreCompileInputs.cache
+D:\Загрузки\Model Bank\Model Bank\obj\Debug\Model Bank.exe
+D:\Загрузки\Model Bank\Model Bank\obj\Debug\Model Bank.pdb
+D:\Загрузки\Model Bank22\Model Bank\obj\Debug\Model Bank.csproj.AssemblyReference.cache
+D:\Загрузки\Model Bank22\Model Bank\obj\Debug\Model Bank.csproj.SuggestedBindingRedirects.cache
+D:\Загрузки\Model Bank22\Model Bank\obj\Debug\Model_Bank.Form1.resources
+D:\Загрузки\Model Bank22\Model Bank\obj\Debug\Model_Bank.Properties.Resources.resources
+D:\Загрузки\Model Bank22\Model Bank\obj\Debug\Model Bank.csproj.GenerateResource.cache
+D:\Загрузки\Model Bank22\Model Bank\obj\Debug\Model Bank.csproj.CoreCompileInputs.cache
+D:\Загрузки\Model Bank22\Model Bank\obj\Debug\Model Bank.exe
+D:\Загрузки\Model Bank22\Model Bank\obj\Debug\Model Bank.pdb
+D:\Downloads\Telegram Desktop\Model Bank\Model Bank\bin\Debug\Model Bank.exe.config
+D:\Downloads\Telegram Desktop\Model Bank\Model Bank\bin\Debug\Model Bank.exe
+D:\Downloads\Telegram Desktop\Model Bank\Model Bank\bin\Debug\Model Bank.pdb
+D:\Downloads\Telegram Desktop\Model Bank\Model Bank\obj\Debug\Model Bank.csproj.AssemblyReference.cache
+D:\Downloads\Telegram Desktop\Model Bank\Model Bank\obj\Debug\Model Bank.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\Telegram Desktop\Model Bank\Model Bank\obj\Debug\Model_Bank.Form1.resources
+D:\Downloads\Telegram Desktop\Model Bank\Model Bank\obj\Debug\Model_Bank.Properties.Resources.resources
+D:\Downloads\Telegram Desktop\Model Bank\Model Bank\obj\Debug\Model Bank.csproj.GenerateResource.cache
+D:\Downloads\Telegram Desktop\Model Bank\Model Bank\obj\Debug\Model Bank.csproj.CoreCompileInputs.cache
+D:\Downloads\Telegram Desktop\Model Bank\Model Bank\obj\Debug\Model Bank.exe
+D:\Downloads\Telegram Desktop\Model Bank\Model Bank\obj\Debug\Model Bank.pdb
+D:\3 курс 6 семестр\Дисциплины\МиИМ\Курсач\C#\Model Bank 2\Model Bank\obj\Debug\Model Bank.csproj.AssemblyReference.cache
+D:\3 курс 6 семестр\Дисциплины\МиИМ\Курсач\C#\Model Bank 2\Model Bank\obj\Debug\Model Bank.csproj.SuggestedBindingRedirects.cache
+D:\3 курс 6 семестр\Дисциплины\МиИМ\Курсач\C#\Model Bank 2\Model Bank\obj\Debug\Model_Bank.Form1.resources
+D:\3 курс 6 семестр\Дисциплины\МиИМ\Курсач\C#\Model Bank 2\Model Bank\obj\Debug\Model_Bank.Properties.Resources.resources
+D:\3 курс 6 семестр\Дисциплины\МиИМ\Курсач\C#\Model Bank 2\Model Bank\obj\Debug\Model Bank.csproj.GenerateResource.cache
+D:\3 курс 6 семестр\Дисциплины\МиИМ\Курсач\C#\Model Bank 2\Model Bank\obj\Debug\Model Bank.csproj.CoreCompileInputs.cache
+D:\3 курс 6 семестр\Дисциплины\МиИМ\Курсач\C#\Model Bank 2\Model Bank\obj\Debug\Model Bank.exe
+D:\3 курс 6 семестр\Дисциплины\МиИМ\Курсач\C#\Model Bank 2\Model Bank\obj\Debug\Model Bank.pdb
+D:\3 курс 6 семестр\Дисциплины\МиИМ\Курсач\C#\Model Bank 2\Model Bank\bin\Debug\Model Bank.exe.config
+D:\3 курс 6 семестр\Дисциплины\МиИМ\Курсач\C#\Model Bank 2\Model Bank\bin\Debug\Model Bank.exe
+D:\3 курс 6 семестр\Дисциплины\МиИМ\Курсач\C#\Model Bank 2\Model Bank\bin\Debug\Model Bank.pdb
+C:\Users\kvot5\Desktop\Курсовая 2022 - 2023\Model Bank\Model Bank\bin\Debug\Model Bank.exe.config
+C:\Users\kvot5\Desktop\Курсовая 2022 - 2023\Model Bank\Model Bank\bin\Debug\Model Bank.exe
+C:\Users\kvot5\Desktop\Курсовая 2022 - 2023\Model Bank\Model Bank\bin\Debug\Model Bank.pdb
+C:\Users\kvot5\Desktop\Курсовая 2022 - 2023\Model Bank\Model Bank\obj\Debug\Model Bank.csproj.AssemblyReference.cache
+C:\Users\kvot5\Desktop\Курсовая 2022 - 2023\Model Bank\Model Bank\obj\Debug\Model Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\kvot5\Desktop\Курсовая 2022 - 2023\Model Bank\Model Bank\obj\Debug\Model_Bank.Form1.resources
+C:\Users\kvot5\Desktop\Курсовая 2022 - 2023\Model Bank\Model Bank\obj\Debug\Model_Bank.Properties.Resources.resources
+C:\Users\kvot5\Desktop\Курсовая 2022 - 2023\Model Bank\Model Bank\obj\Debug\Model Bank.csproj.GenerateResource.cache
+C:\Users\kvot5\Desktop\Курсовая 2022 - 2023\Model Bank\Model Bank\obj\Debug\Model Bank.csproj.CoreCompileInputs.cache
+C:\Users\kvot5\Desktop\Курсовая 2022 - 2023\Model Bank\Model Bank\obj\Debug\Model Bank.exe
+C:\Users\kvot5\Desktop\Курсовая 2022 - 2023\Model Bank\Model Bank\obj\Debug\Model Bank.pdb
